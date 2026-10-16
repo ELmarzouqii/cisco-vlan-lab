@@ -61,7 +61,7 @@ Toutes les machines appartiennent au sous-réseau 172.17.40.0/24. L'isolement es
 |:---|:---:|:---:|:---:|:---|:---|
 | **PC0** | FastEthernet0 | VLAN 10 | Red | 172.17.40.23 | 255.255.255.0 |
 | **PC1** | FastEthernet0 | VLAN 20 | Blue | 172.17.40.22 | 255.255.255.0 |
-| **PC2** | FastEthernet0 | VLAN 30 | Green | 172.178.40.21 | 255.255.255.0 |
+| **PC2** | FastEthernet0 | VLAN 30 | Green | 172.17.40.21 | 255.255.255.0 |
 | **PC3** | FastEthernet0 | VLAN 10 | Red | 172.17.40.26 | 255.255.255.0 |
 | **PC4** | FastEthernet0 | VLAN 20 | Blue | 172.17.40.25 | 255.255.255.0 |
 | **PC5** | FastEthernet0 | VLAN 30 | Green | 172.17.40.24 | 255.255.255.0 |
