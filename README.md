@@ -108,7 +108,6 @@ exit
 
 ### ✅ Test Results
 - [x] **Intra-VLAN Connectivity:** Le ping entre des machines appartenant au même VLAN (ex: PC2 ➡️ PC5) aboutit avec succès.
-- [x] **Inter-VLAN Isolation:** Le ping entre des machines de VLANs différents (ex: PC0 et PC1) échoue, confirmant l'étanchéité et l'isolation de Niveau 2.
 
 ---
 
